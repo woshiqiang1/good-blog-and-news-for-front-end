@@ -15,7 +15,7 @@
 * [一丝《阿里妈妈的前端快爆》](https://zhuanlan.zhihu.com/mm-fe)
 * [何幻的Blog](https://thzt.github.io/archives/)
     + [何幻的语雀](https://www.yuque.com/thzt)
-* 
+* [陈浩《酷壳网coolshell》](https://coolshell.cn/featured)
 * [程墨《进击的React》](https://zhuanlan.zhihu.com/advancing-react)
 * [熊建刚《某熊的技术之路》](https://zhuanlan.zhihu.com/wxyyxc1992)
 * [夏建树《前端工匠Blog》](https://github.com/ljianshu/Blog)
